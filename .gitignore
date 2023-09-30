@@ -3,3 +3,10 @@ venv
 models
 .env
 dataset/*
+*.pkl
+*.h5
+__pycache__/env.cpython-310.pyc
+__pycache__/env.cpython-311.pyc
+output_2023_09_30_18_43.csv
+LightGBM_model_balanced_output_2023_09_30_19_24.csv
+LightGBM_default_2023_09_30_19_29.csv
