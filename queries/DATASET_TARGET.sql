@@ -1,0 +1,2 @@
+SELECT t.*
+FROM master.TA4_DATASET_TARGET t
